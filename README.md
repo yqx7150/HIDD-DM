@@ -6,21 +6,21 @@ Defocus blur commonly arises from the cameras' depth-of-field limitations.Here, 
 ## Training and deblurring Process
 
 1. Defocus deblurring Workflow
-![Self-developed System](Fig1)
+<div align="center"><img src="https://github.com/yqx7150/HIDD-DM/blob/main/Fig1.png"> </div>
 
 
 
 ##  Network Structure
 
 1. Structure diagram of NCSN network  
-![Network Stucture](Fig2)
+<div align="center"><img src="https://github.com/yqx7150/HIDD-DM/blob/main/Fig2.png"> </div>
 
 
 
 ## Deblurring Images process
 
 1. Defocus images from NanChang university   
-   ![Defocus deblurring process](Fig3)
+<div align="center"><img src="https://github.com/yqx7150/HIDD-DM/blob/main/Fig3.png"> </div>
 
 
 ## Other Related Projects
